@@ -25,6 +25,8 @@
 
 </body>
 </html>
+
+<!--This is where the CSS starts-->
 body {
     background: url(wood.jpg) no-repeat fixed center;
 	background-size: cover;
