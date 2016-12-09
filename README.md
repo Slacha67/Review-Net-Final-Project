@@ -1,2 +1,1 @@
-This is my website for my final project. It is a website that displays the latest news about technology, mostly apple products.
-it will have a dropdown menu. and hopefully if it works an Iframe of the verge
+This is a project that my teacher gave me. I am bassically making a news website where I can take feeds of news from multiple websites such as the verge, cnet, flipboard and much more. I will be using HTML to display the basics, like a link to each website underneath the description as the form of an image. I wil also have a feedly for these websites but will have to wait until I learn Java Script. 
