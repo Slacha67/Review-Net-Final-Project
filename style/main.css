@@ -1,5 +1,5 @@
 body {
-    background: url(wood.jpg) no-repeat fixed center;
+    background: url(../Pictures/wood.jpg) no-repeat fixed center;
 	background-size: cover;
 	margin:0;
 }
@@ -48,4 +48,9 @@ li a:hover:not(.active) {
 }
 .active {
     background-color: #00ffcc;
+}
+
+.home {
+	background-color: Blue;
+	background-color: Blue;
 }
